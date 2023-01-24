@@ -1,6 +1,6 @@
 # threading_or_not
 The purpose of this project is to show, that threading is not always the better option.
-In did this project as part of my OS class but added bonus parts and some extra implementaions. 
+In did this project as part of my OS class but added bonus parts and some extra implementations. 
 
 ### Description
 The programm executes 10 different calculations on a random initialized list saving the result in an output file.
