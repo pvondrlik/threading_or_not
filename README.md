@@ -43,7 +43,7 @@ because of the extra computation and overhead.
 #### Comparison of “noThread” and “thrNthr”
 Comparing between threads 1 and “noThread” emphasize that multithreading is not always a
 better solution, especially if task can make use of former results (e.g. reusing the already
-calculated sum). This shows the difficulties of multithreading to divide activities and
+calculated sum). This shows the difficulties of multithreading to divide activities and balancing work.
 
 ### Note
 The code does not catch every invalid argument.
